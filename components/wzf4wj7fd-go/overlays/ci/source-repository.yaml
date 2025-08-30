@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wzf4wj7fd-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wzf4wj7fd-go
